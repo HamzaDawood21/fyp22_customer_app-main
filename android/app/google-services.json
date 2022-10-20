@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658059451984",
+    "project_id": "iconiccomputer-dda13",
+    "storage_bucket": "iconiccomputer-dda13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658059451984:android:9c471b09b9ec95cab57b55",
+        "android_client_info": {
+          "package_name": "com.iconic.computer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658059451984-iqag42qd8lcj8mist9k19e1khf7l1gto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_fNNM7MTJojsAAr8nKC4_NMuJkk8r_1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658059451984-iqag42qd8lcj8mist9k19e1khf7l1gto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
